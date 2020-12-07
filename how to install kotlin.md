@@ -21,6 +21,8 @@ $ cd ~
 
 $ sudo gedit .bashrc
 
+in the file end, add:
+
 ```
 export PATH=$PATH:/home/yourusername/kotlinc/bin/kotlin
 
